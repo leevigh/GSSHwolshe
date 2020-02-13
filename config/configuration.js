@@ -1,5 +1,5 @@
 module.exports = {
     mongoDB: "mongodb://localhost/schmansys",
-    port: process.env.port || 7000,
+    port: process.env.port || 9000,
     
 }
